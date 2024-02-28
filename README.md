@@ -1,5 +1,5 @@
 # OOP2
-1. Problem Description:
+# Problem Description:
 In fact, daily many people prefer to drink coffee, juices and order some
 snacks, and some have their favorite coffee every day. Our application
 helps the customer in ordering the snacks he wants, in addition to saving
@@ -10,7 +10,7 @@ causes fainting and tension, which leads to the inability to focus. Through
 our application, which will provide distinguished services to students in a
 short period of time. Our app makes it easy for the customer to order their
 daily snacks.
-2. Application Description:
+#  Application Description:
 What is a snack factory?
 An application for ordering a variety of snacks in addition to a variety of
 drinks, whether coffee or juices. The application allows the customer to
